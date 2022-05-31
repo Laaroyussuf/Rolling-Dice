@@ -5,3 +5,6 @@ These projects are done using two different Visualization modules in python whic
 The probability of getting any sides of a die is 1/2 and that is, if the die is thrown once.
 Considering the frequency of any sides if the die is thrown in a number of time, this is what the project is all about.
 It visualizes the frequency of any sides if the die is thrown randomly.
+
+#Author
+ 
