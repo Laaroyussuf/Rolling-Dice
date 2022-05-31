@@ -1,4 +1,4 @@
-# Rolling-Dice
+# Rolling-Die
 Visualizing the frequency of possible face (result) of a dice.
 
 These projects are done using two different Visualization modules in python which are; Matplotlib and Plotly.
