@@ -6,5 +6,5 @@ The probability of getting any sides of a die is 1/2 and that is, if the die is 
 Considering the frequency of any sides if the die is thrown in a number of time, this is what the project is all about.
 It visualizes the frequency of any sides if the die is thrown randomly.
 
-#Author
+##Author
  
