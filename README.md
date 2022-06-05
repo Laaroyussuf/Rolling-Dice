@@ -8,5 +8,5 @@ Considering the frequency of any sides if the die is thrown in a number of time,
 It visualizes the frequency of any sides if the die is thrown randomly.
 
 ## Author
-https://github.com/Laaroyussuf
+- Github - [Laaro Yussuf](https://www.github.com/Laaroyussuf)
  
